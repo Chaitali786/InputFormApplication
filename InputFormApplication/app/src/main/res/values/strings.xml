@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InputFormApplication</string>
+    <string name="color_default_summary">InputFormApplication1</string>
+    <string name="color_default_title">InputFormApplication2</string>
+    <string name="title_activity_color_picker_dialog">Color Picker Dialog</string>
+
+</resources>
